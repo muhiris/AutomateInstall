@@ -25,7 +25,7 @@ applications = [
 def run_installation(_, app_name, install_function):
     try:
         subprocess.run(
-            ["gnome-terminal", "--", "bash", "-c", f"sudo ./automate.sh {install_function}; bash"],
+            ["gnome-terminal", "--", "bash", "-c", f"sudo /usr/bin/automate.sh {install_function}; bash"],
             check=True,
         )
     except Exception as e:
