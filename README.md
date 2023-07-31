@@ -14,7 +14,7 @@ A Python GTK-3 based application that automates the installation of multiple app
 
 ###### Using Debian Package (DEB)
 
-1. Download the DEB package from the releases page.
+1. Download the DEB package from the releases page [here](https://github.com/muhiris/AutomateInstall/releases/download/v1.0/v0.1.0-automate-install.deb).
 2. Install the DEB package using the following command:
 
    ```bash
