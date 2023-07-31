@@ -17,7 +17,7 @@ A Python GTK-3 based application that automates the installation of multiple app
 2. Install the DEB package using the following command:
 
    ```bash
-   sudo dpkg -i v0.1.0-automate-install.deb
+   sudo dpkg -i AutomateInstall.deb
    ```
 
 ## Running the Application
